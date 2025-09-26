@@ -1,6 +1,6 @@
 # 🎨💻 Yuri Lima
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-end`**
 
 Olá, me chamo Yuri, atualmente cursando **Design Digital** na **Universidade Federal do Ceará (Campus Quixadá)** e apaixonado por unir tecnologia e arte.  
 Estou sempre explorando novas formas de vincular o design artístico ao universo da programação, trazendo soluções criativas e divertidas.  
